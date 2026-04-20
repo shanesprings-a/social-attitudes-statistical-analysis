@@ -3,7 +3,7 @@
 ---
 
 ## 📊 Project Overview
-This project analyzes survey data using SPSS to examine how factors such as religiosity, gender, and interpersonal contact influence attitudes. It demonstrates an end-to-end data analysis workflow, including data collection, statistical modeling, and interpretation.
+This project uses SPSS to analyze survey data and examine how factors such as religiosity, gender, and interpersonal contact influence attitudes. It demonstrates an end-to-end data analysis workflow, including data collection, statistical modeling, and interpretation.
 
 ---
 
@@ -63,6 +63,11 @@ To evaluate whether demographic and social variables significantly influence att
 - Interpreting and communicating data insights  
 - Analytical problem-solving
   
+---
+
+## 🚀 Takeaway
+This project highlights the ability to apply statistical methods to real-world data and translate results into meaningful insights.
+
 ---
 
 ## 📁 Files Included
