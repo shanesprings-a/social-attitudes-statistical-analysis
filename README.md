@@ -1,9 +1,9 @@
 # 📊 Statistical Analysis of Social Attitudes Using SPSS
 
-## 📊 Project Overview
-This project analyzes survey data to identify factors influencing attitudes using statistical methods in SPSS.
+---
 
-The analysis focuses on how variables such as religiosity, gender, and interpersonal contact relate to levels of acceptance, using both bivariate and multivariate statistical techniques.
+## 📊 Project Overview
+This project analyzes survey data using SPSS to examine how factors such as religiosity, gender, and interpersonal contact influence attitudes. It demonstrates an end-to-end data analysis workflow, including data collection, statistical modeling, and interpretation.
 
 ---
 
@@ -18,7 +18,7 @@ To evaluate whether demographic and social variables significantly influence att
 - Data indexing and transformation
 - Reliability testing (Cronbach’s Alpha)
 
-### Statistical Methods Used:
+## Statistical Methods Used:
 - Chi-square
 - Independent t-tests
 - Pearson correlation
@@ -53,4 +53,17 @@ To evaluate whether demographic and social variables significantly influence att
 - End-to-end data analysis workflow  
 - Statistical modeling and hypothesis testing  
 - Data interpretation and insight communication  
-- Strong analytical and validation skills 
+- Strong analytical and validation skills
+  
+---
+
+## 📌 Key Skills Demonstrated
+- Data validation and cleaning  
+- Statistical analysis and hypothesis testing  
+- Interpreting and communicating data insights  
+- Analytical problem-solving
+  
+---
+
+## 📁 Files Included
+- statistical-analysis-paper.pdf – Full research and analysis
