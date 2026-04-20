@@ -71,4 +71,4 @@ This project highlights the ability to apply statistical methods to real-world d
 ---
 
 ## 📁 Files Included
-- statistical-analysis-social-attitudes.pdf – Full research and analysis
+- [📄 View Full Analysis Paper](./statistical-analysis-social-attitudes.pdf)
